@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+nav li a:hover{
+   background-color: #929fb3;
+}
+#nav1{
+	height: 62px;
+	background-color:#17181C;
+	text-align: center;
+}	
+marquee{
+	width: 100%;
+}
